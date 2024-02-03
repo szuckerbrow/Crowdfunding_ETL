@@ -14,16 +14,20 @@ Our final product was a relational database of four tables in Postgres called `c
 
 ## Results
 Here is an ERD of our table schema:
-<img src="ERD_screenshot.png" width="400">
+<img src="./Resources/ERD_screenshot.png">
  
 The screenshot images below show the tables in Postgres after a `SELECT *` statement for each.
 
 There were 9 distinct categories and 24 subcategories in this crowdfunding dataset:
-<img src="Category_table.png" width="400">
-<img src="Subcategory_table.png" width="400"> 
+
+<img src="./Resources/Category_table.png">
+
+<img src="./Resources/Subcategory_table.png"> 
 
 The Campaign table lists companies and their crowdfunding campaign goals and performance metrics.
-<img src="Campaign_table.png" width="400">
+
+<img src="./Resources/Campaign_table.png">
 
 The following table is a directory of contacts.
-<img src="Contacts_table.png" width="400">
+
+<img src="./Resources/Contacts_table.png">
